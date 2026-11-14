@@ -118,7 +118,7 @@ The dashboard helps identify:
 
 📸 Dashboard Preview
 
-![Superstore Sales & Profitability Analysis Dashboard](Images/Superstore_Dashboard1.png)
+![Superstore Sales & Profitability Analysis Dashboard](Superstore_Dashboard1.png)
 
 
 
